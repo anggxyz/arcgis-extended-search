@@ -4,7 +4,7 @@
   "version": "2.7",
   "wabVersion": "2.7",
   "author": "Angela Gilhotra",
-  "description": "",
+  "description": "Search, query and compute on a feature layer",
   "copyright": "",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
   "properties": {
